@@ -7,17 +7,10 @@ Hi, I'm a passionate web or mobile app developer and software engineering studen
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasir-kaif&label=Profile%20views&color=0e75b6&style=flat" alt="yasir-kaif"/></p>
 
 ## Skills I Know:
-
-* 📜 **Languages:**
-  <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,dart,html,flutter" />
-  </a>
-</p>
-
-* 🔬 **Frameworks** 🗳 **Tools:**`Android SDK`, `Flutter`, `Gradle`, `Git`, `Postman`, `Firebase`, `Jetpack`, `Profiler`, `Flutter Inspector`
-
-* 📚 **Libraries:** `Retrofit`, `Glide`, `Coil`, `Room`, `Dagger-Hilt`, `RxJava`, `JUnit`, `Mockito`
+ - **📜 Languages:** 
+    <p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter" /></a></p>
+ - **🔬 Frameworks 🗳 Tools:** `Android SDK` `Flutter` `Gradle` `Git` `Postman` `Firebase` `Flutter Inspector` `Figma`
+ - **📚 Libraries:** `Retrofit` `Glide` `Coil` `Room` `Dagger-Hilt` `RxJava` `JUnit` `Mockito`
 
 * 🧙‍♂️ **Coding pattern & principles:**
    - **⚒ Patterns:**  • [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) • [MVP](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter) • [MVI](https://medium.com/swlh/mvi-architecture-with-android-fcde123e3c4a) 
